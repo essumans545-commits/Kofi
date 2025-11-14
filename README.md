@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Golda and Sam - Life Inspiration</title>
+    <title>Golda - Life Inspiration</title>
     <style>
         body {
             margin: 0;
